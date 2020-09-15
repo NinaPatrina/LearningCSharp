@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Briefcase Lock", "Briefcase Lock\Briefcase Lock.csproj", "{829AE523-6FD4-41A1-B33E-BAA72FFAB6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829AE523-6FD4-41A1-B33E-BAA72FFAB6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829AE523-6FD4-41A1-B33E-BAA72FFAB6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829AE523-6FD4-41A1-B33E-BAA72FFAB6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829AE523-6FD4-41A1-B33E-BAA72FFAB6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A63B946-A33D-41DA-B3EE-C80A514951B1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroOne", "ZeroOne\ZeroOne.csproj", "{6254774F-6616-405D-9EFC-76DE1C5294C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6254774F-6616-405D-9EFC-76DE1C5294C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6254774F-6616-405D-9EFC-76DE1C5294C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6254774F-6616-405D-9EFC-76DE1C5294C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6254774F-6616-405D-9EFC-76DE1C5294C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {720FB8AD-E80E-44F2-8365-C6F0F5D93D1D}
+	EndGlobalSection
+EndGlobal

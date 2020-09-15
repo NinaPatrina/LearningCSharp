@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePermutation", "PalindromePermutation\PalindromePermutation.csproj", "{E4CCB80D-573A-4354-8A11-CF614A7C98DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4CCB80D-573A-4354-8A11-CF614A7C98DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CCB80D-573A-4354-8A11-CF614A7C98DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CCB80D-573A-4354-8A11-CF614A7C98DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CCB80D-573A-4354-8A11-CF614A7C98DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {202B9112-1642-4003-A34A-E69068D82595}
+	EndGlobalSection
+EndGlobal

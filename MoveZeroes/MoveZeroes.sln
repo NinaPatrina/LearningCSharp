@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{75D9C91D-A699-4E71-80BE-72066404E538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D9C91D-A699-4E71-80BE-72066404E538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D9C91D-A699-4E71-80BE-72066404E538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D9C91D-A699-4E71-80BE-72066404E538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D9C91D-A699-4E71-80BE-72066404E538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59D97D71-9DA0-4CE8-B2F9-89E2D53078D2}
+	EndGlobalSection
+EndGlobal

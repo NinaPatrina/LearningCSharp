@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkListIntersection", "LinkListIntersection\LinkListIntersection.csproj", "{A806488E-0813-4642-AF68-B2544839008B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A806488E-0813-4642-AF68-B2544839008B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A806488E-0813-4642-AF68-B2544839008B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A806488E-0813-4642-AF68-B2544839008B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A806488E-0813-4642-AF68-B2544839008B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5A40E8E-620A-4457-BBC9-13DAD12A7142}
+	EndGlobalSection
+EndGlobal

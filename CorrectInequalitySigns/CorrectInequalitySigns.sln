@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectInequalitySigns", "CorrectInequalitySigns\CorrectInequalitySigns.csproj", "{7A4821BC-835F-4F86-917A-23B8FD752CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A4821BC-835F-4F86-917A-23B8FD752CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4821BC-835F-4F86-917A-23B8FD752CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4821BC-835F-4F86-917A-23B8FD752CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4821BC-835F-4F86-917A-23B8FD752CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF298B18-0D1A-4149-9B67-576BE6A101E8}
+	EndGlobalSection
+EndGlobal

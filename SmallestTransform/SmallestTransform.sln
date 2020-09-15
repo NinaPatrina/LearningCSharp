@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestTransform", "SmallestTransform\SmallestTransform.csproj", "{08C4E5E9-E64D-40A0-8FDF-66C5BBA7CCD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C4E5E9-E64D-40A0-8FDF-66C5BBA7CCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C4E5E9-E64D-40A0-8FDF-66C5BBA7CCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C4E5E9-E64D-40A0-8FDF-66C5BBA7CCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C4E5E9-E64D-40A0-8FDF-66C5BBA7CCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB90B884-5D2F-41B3-B917-1B4BEE0C9E16}
+	EndGlobalSection
+EndGlobal
